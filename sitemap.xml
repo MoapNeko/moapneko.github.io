@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gitee.com/moap/2020/12/01/%E4%BD%B3%E5%8F%A5%E6%91%98%E6%8A%84-1/</loc>
+    
+    <lastmod>2020-12-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitee.com/moap/2020/12/01/%E4%B8%80%E5%B0%81%E4%B9%A6%E4%BF%A1/</loc>
+    
+    <lastmod>2020-12-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitee.com/moap/mage/index.html</loc>
+    
+    <lastmod>2020-12-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://gitee.com/moap/about/index.html</loc>
     
-    <lastmod>2020-12-01</lastmod>
+    <lastmod>2020-12-02</lastmod>
     
   </url>
   
@@ -23,13 +44,6 @@
   </url>
   
   <url>
-    <loc>http://gitee.com/moap/2020/12/01/%E4%B8%80%E5%B0%81%E4%B9%A6%E4%BF%A1/</loc>
-    
-    <lastmod>2020-12-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://gitee.com/moap/link/index.html</loc>
     
     <lastmod>2020-12-01</lastmod>
@@ -39,7 +53,7 @@
 
   <url>
     <loc>http://gitee.com/moap</loc>
-    <lastmod>2020-12-01</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,14 +61,21 @@
   
   <url>
     <loc>http://gitee.com/moap/tags/%E4%B9%A6%E4%BF%A1/</loc>
-    <lastmod>2020-12-01</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://gitee.com/moap/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2020-12-01</lastmod>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://gitee.com/moap/tags/%E9%95%BF%E7%9F%AD%E5%8F%A5/</loc>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -63,7 +84,14 @@
   
   <url>
     <loc>http://gitee.com/moap/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2020-12-01</lastmod>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://gitee.com/moap/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
