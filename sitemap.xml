@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gitee.com/moap/2020/12/01/%E4%BD%B3%E5%8F%A5%E6%91%98%E6%8A%84-1/</loc>
+    <loc>http://gitee.com/moap/2020/12/01/%E4%B8%80%E5%B0%81%E4%B9%A6%E4%BF%A1/</loc>
     
     <lastmod>2020-12-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://gitee.com/moap/2020/12/01/%E4%B8%80%E5%B0%81%E4%B9%A6%E4%BF%A1/</loc>
+    <loc>http://gitee.com/moap/2020/12/03/%E7%BD%91%E7%AB%99%E6%97%A5%E5%BF%97/</loc>
+    
+    <lastmod>2020-12-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gitee.com/moap/2020/12/01/%E4%BD%B3%E5%8F%A5%E6%91%98%E6%8A%84-1/</loc>
     
     <lastmod>2020-12-03</lastmod>
     
@@ -75,6 +82,13 @@
   
   <url>
     <loc>http://gitee.com/moap/tags/%E9%95%BF%E7%9F%AD%E5%8F%A5/</loc>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://gitee.com/moap/tags/%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
