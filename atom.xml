@@ -175,9 +175,9 @@
     <category term="摘抄" scheme="http://gitee.com/moap/categories/%E6%97%A5%E5%B8%B8/%E6%91%98%E6%8A%84/"/>
     
     
-    <category term="日常" scheme="http://gitee.com/moap/tags/%E6%97%A5%E5%B8%B8/"/>
-    
     <category term="书信" scheme="http://gitee.com/moap/tags/%E4%B9%A6%E4%BF%A1/"/>
+    
+    <category term="日常" scheme="http://gitee.com/moap/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   

@@ -88,6 +88,20 @@
 
   
   <url>
+    <loc>http://gitee.com/moap/tags/%E7%95%AA%E5%89%A7/</loc>
+    <lastmod>2021-08-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://gitee.com/moap/tags/%E4%B9%A6%E4%BF%A1/</loc>
+    <lastmod>2021-08-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://gitee.com/moap/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2021-08-21</lastmod>
     <changefreq>daily</changefreq>
@@ -102,34 +116,13 @@
   </url>
   
   <url>
-    <loc>http://gitee.com/moap/tags/%E7%95%AA%E5%89%A7/</loc>
-    <lastmod>2021-08-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://gitee.com/moap/tags/%E7%BB%83%E5%AD%97/</loc>
     <lastmod>2021-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://gitee.com/moap/tags/%E4%B9%A6%E4%BF%A1/</loc>
-    <lastmod>2021-08-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://gitee.com/moap/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2021-08-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://gitee.com/moap/categories/%E6%88%91%E7%9A%84%E7%95%AA%E5%89%A7%E5%88%97%E8%A1%A8/</loc>
@@ -139,7 +132,7 @@
   </url>
   
   <url>
-    <loc>http://gitee.com/moap/categories/%E6%97%A5%E5%B8%B8/%E6%91%98%E6%8A%84/</loc>
+    <loc>http://gitee.com/moap/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2021-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -147,6 +140,13 @@
   
   <url>
     <loc>http://gitee.com/moap/categories/%E6%88%91%E7%9A%84%E7%95%AA%E5%89%A7%E5%88%97%E8%A1%A8/%E7%95%AA%E5%89%A7/</loc>
+    <lastmod>2021-08-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://gitee.com/moap/categories/%E6%97%A5%E5%B8%B8/%E6%91%98%E6%8A%84/</loc>
     <lastmod>2021-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
