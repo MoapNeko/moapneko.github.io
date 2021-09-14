@@ -3,7 +3,7 @@ layout: posts
 title: 将文章从Gitee搬运到GitHub
 date: 2021-09-14 16:35:02
 tags: [日常,匪夷所思]
-categories: [屏蔽词]
+categories: [日常,屏蔽词]
 cover: /images/shiranui.jpg
 ---
 
