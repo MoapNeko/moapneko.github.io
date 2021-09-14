@@ -1,0 +1,43 @@
+- class_name: 友情链接
+  class_desc: 
+  link_list:
+    - name: JerryC
+      link: https://jerryc.me/
+      avatar: https://jerryc.me/image/avatar.png
+      descr: 今日事,今日毕
+    
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      avatar: https://butterfly.js.org/img/avatar.png
+      descr: 我该飞向哪里？
+
+    - name: 星野纯夏の秘密花园
+      link: https://lolita.best/
+      avatar: https://cdn.jsdelivr.net/gh/Sumikanya/MyblogUpload/usr/img/Mine.jpg
+      descr: 我还没问到.jpg
+
+    - name: 季悠然
+      link: https://blog.exia.xyz
+      avatar: https://sdn.geekzu.org/avatar/87e0f8d2f0f70987061cec6376cb7f97?s=200&r=G&d=
+      descr: 寻找有趣的灵魂
+
+    
+
+
+
+# - class_name: 网站
+#   class_desc: 值得推荐的网站
+#   link_list:
+#     - name: Youtube
+#       link: https://www.youtube.com/
+#       avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+#       descr: 视频网站
+#     - name: Weibo
+#       link: https://www.weibo.com/
+#       avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+#       descr: 中国最大社交分享平台
+#     - name: Twitter
+#       link: https://twitter.com/
+#       avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+#       descr: 社交分享平台
+
