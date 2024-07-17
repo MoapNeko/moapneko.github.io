@@ -6,7 +6,7 @@
   <link href="https://github.com/MoapNeko/atom.xml" rel="self"/>
   
   <link href="https://github.com/MoapNeko/"/>
-  <updated>2024-07-16T09:30:52.579Z</updated>
+  <updated>2024-07-16T11:08:02.974Z</updated>
   <id>https://github.com/MoapNeko/</id>
   
   <author>
@@ -17,13 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>templete</title>
+    <link href="https://github.com/MoapNeko/2024/07/16/templete/"/>
+    <id>https://github.com/MoapNeko/2024/07/16/templete/</id>
+    <published>2024-07-16T10:55:49.000Z</published>
+    <updated>2024-07-16T11:08:02.974Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><p>描述性文字</p><h3 id="第一节标题"><a href="#第一节标题" class="headerlink" title="第一节标题"></a>第一节标题</h3><h3 id="……"><a href="#……" class="headerlink" title="……"></a>……</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>美</title>
     <link href="https://github.com/MoapNeko/2024/07/16/%E7%BE%8E/"/>
     <id>https://github.com/MoapNeko/2024/07/16/%E7%BE%8E/</id>
     <published>2024-07-16T05:30:12.000Z</published>
-    <updated>2024-07-16T09:30:52.579Z</updated>
+    <updated>2024-07-17T04:19:30.681Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="本节来源"><a href="#本节来源" class="headerlink" title="本节来源"></a>本节来源</h2><p>B站UP主 <a href="https://space.bilibili.com/519253600">AlanBecker</a></p><h3 id="火柴人-VS-数学"><a href="#火柴人-VS-数学" class="headerlink" title="火柴人 VS 数学"></a>火柴人 VS 数学</h3><iframe src="//player.bilibili.com/player.html?aid=615209469&bvid=BV1ph4y1g75E&cid=1174279662&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h3 id="火柴人-VS-几何"><a href="#火柴人-VS-几何" class="headerlink" title="火柴人 VS 几何"></a>火柴人 VS 几何</h3><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1855760138&bvid=BV1hs421T7g8&cid=1599883068&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><h3 id="火柴人-VS-物理"><a href="#火柴人-VS-物理" class="headerlink" title="火柴人 VS 物理"></a>火柴人 VS 物理</h3><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=409586100&bvid=BV1cG411e75o&cid=1360798206&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>在我看来，理科的美丽便在于那一个个蕴含着深刻道理的定理和公式，用各种抽象的表达式，它们描述着这个世界的真谛。<br>在我初高中时期，我的数学其实还算不错，那时候我的数学偶尔还能拿到满分，可惜岁月流转，时光不再，频繁变更的老师和其糟糕的性子，让我一想到数学第一印象就是她在课堂上的污言秽语，尽管如此，数学在很长一段时间里都曾经是我乐意去多买几本课外辅导书的科目，而如今，我又看到了更让我兴奋的东西，B站UP主AlanBecker的火柴人系列，数学、物理与火柴人又碰撞出了别样的精彩。</p><h3 id="申明"><a href="#申明" class="headerlink" title="申明"></a>申明</h3><p>视频来源于B站UP主 <a href="https://space.bilibili.com/519253600">AlanBecker</a></p><h3 id="火柴人-VS-数学"><a href="#火柴人-VS-数学" class="headerlink" title="火柴人 VS 数学"></a>火柴人 VS 数学</h3><iframe src="//player.bilibili.com/player.html?aid=615209469&bvid=BV1ph4y1g75E&cid=1174279662&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h3 id="火柴人-VS-几何"><a href="#火柴人-VS-几何" class="headerlink" title="火柴人 VS 几何"></a>火柴人 VS 几何</h3><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1855760138&bvid=BV1hs421T7g8&cid=1599883068&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><h3 id="火柴人-VS-物理"><a href="#火柴人-VS-物理" class="headerlink" title="火柴人 VS 物理"></a>火柴人 VS 物理</h3><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=409586100&bvid=BV1cG411e75o&cid=1360798206&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>]]></content>
     
     
       
@@ -560,32 +580,6 @@
     <updated>2021-08-27T07:57:58.020Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="2021"><a href="#2021" class="headerlink" title="2021"></a>2021</h2><h3 id="国创"><a href="#国创" class="headerlink" title="国创"></a>国创</h3><p> <a href="https://www.bilibili.com/bangumi/play/ss1733">《罗小黑战记》</a><br> <a href="https://www.bilibili.com/bangumi/media/md5626">《镇魂街》</a>第二季重制版<br> <a href="http://www.le.com/ptv/vplay/70957845.html#vid=70957845">《超兽武装》</a></p><h3 id="日番"><a href="#日番" class="headerlink" title="日番"></a>日番</h3><p><a href="https://www.bilibili.com/bangumi/media/md28222618">《动物狂想曲》</a><br><a href="https://www.bilibili.com/bangumi/play/ss36177/?from=search&seid=8127414950129508966">《工作细胞 Black》</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="我的番剧列表" scheme="https://github.com/MoapNeko/categories/%E6%88%91%E7%9A%84%E7%95%AA%E5%89%A7%E5%88%97%E8%A1%A8/"/>
-    
-    <category term="番剧" scheme="https://github.com/MoapNeko/categories/%E6%88%91%E7%9A%84%E7%95%AA%E5%89%A7%E5%88%97%E8%A1%A8/%E7%95%AA%E5%89%A7/"/>
-    
-    
-    <category term="番剧" scheme="https://github.com/MoapNeko/tags/%E7%95%AA%E5%89%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020年番剧列表</title>
-    <link href="https://github.com/MoapNeko/2020/12/07/2020%20%E7%95%AA%E5%89%A7%E5%88%97%E8%A1%A8/"/>
-    <id>https://github.com/MoapNeko/2020/12/07/2020%20%E7%95%AA%E5%89%A7%E5%88%97%E8%A1%A8/</id>
-    <published>2020-12-07T14:30:12.000Z</published>
-    <updated>2021-06-30T14:26:12.072Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="2020-十二月"><a href="#2020-十二月" class="headerlink" title="2020 十二月"></a>2020 十二月</h2><p>1、GOSICK<br>2、EVA 【看完了TV版 真心为你&#x2F;Air】<br>3、攻壳机动队【前两季 两个配套ova】</p>]]></content>
     
     
       
